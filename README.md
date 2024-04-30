@@ -1,1 +1,1 @@
-# Num_traslator
+Start programm like typical SFML project
